@@ -50,13 +50,19 @@ Archivo DICT se ha limpiado
 3.
 
 Archivo DICT leído con PLN. 72 campos de búsqueda
-...
-['traducción', 'bíblico', 'país', 'bajo']
 
 4.
 
-Coincidencias:
-{'bajo', 'traducción', 'país'}
+Si no recuerdas el término, pregúntame, o trata de escribir lo que recuerdes:
+(Nota: El diccionario cuenta con 70 términos. Trabajamos para que crezca)
+ESCRIBE TU CONSULTA ↓
+
+→ hay alguna traducción de la Biblia en los Países Bajos
+
+5.
+
+Hemos encontrado 4 coincidencias:
+{'biblia', 'país', 'traducción', 'bajo'}
 
 ### Biblia del Oso
 
@@ -83,14 +89,20 @@ Archivo DICT se ha limpiado
 
 3.
 
-Archivo DICT leído con PLN. 72 campos de búsqueda
-...
-['traducción', 'biblia', 'español']
+Archivo DICT leído con PLN. 59 campos de búsqueda
 
 4.
 
-Coincidencias:
-{'español', 'traducción', 'biblia'}
+Si no recuerdas el término, pregúntame, o trata de escribir lo que recuerdes:
+(Nota: El diccionario cuenta con 70 términos. Trabajamos para que crezca)
+ESCRIBE TU CONSULTA ↓
+
+→ hay alguna traducción de la Biblia en los Países Bajos
+
+5.
+
+Hemos encontrado 4 coincidencias:
+{'biblia', 'país', 'traducción', 'bajo'}
 
 ## Conclusiones
 
